@@ -1,6 +1,8 @@
 # Employee Data Analysis
 
-![](Intro_Image.jpg)
+
+![image](https://github.com/user-attachments/assets/f25b2b44-c51a-428d-b302-42bf3a080b7a)
+
 ---
 
 ## Introduction
